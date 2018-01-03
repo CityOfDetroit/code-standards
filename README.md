@@ -23,7 +23,7 @@ All of our project repositories assume that you:
 
 #### License
 
-As works of the government, all of our projects and code are in the public domain within the United States. Read the full details here: [LICENSE.md]()
+As works of the government, all of our projects and code are in the public domain within the United States. Read the full details here: [LICENSE.md](https://github.com/CityOfDetroit/code-standards/blob/master/LICENSE.md)
 
 Use the `MIT` license in your `package.json` file, and then copy `LICENSE.md` into your repo.
 
@@ -31,7 +31,7 @@ Use the `MIT` license in your `package.json` file, and then copy `LICENSE.md` in
 
 READMEs explain what the project is, how to install dependencies and how to get up and running for local development. 
 
-Get started with this outline: [README_TEMPLATE.md]()
+Get started with this outline: [README_TEMPLATE.md](https://github.com/CityOfDetroit/code-standards/blob/master/README_TEMPLATE.md)
 
 #### Projects & Wiki
 
@@ -74,7 +74,7 @@ Contributions to a project might entail:
 
 Issues help track and manage feature requests, enhancements and bug fixes. 
 
-As long as you have a Github account (it's free to sign up if you don't yet), you can leave us an issue within a project. Issues look like this: [ISSUE_TEMPLATE.md]()
+As long as you have a Github account (it's free to sign up if you don't yet), you can leave us an issue within a project. Issues look like this: [ISSUE_TEMPLATE.md](https://github.com/CityOfDetroit/code-standards/blob/master/ISSUE_TEMPLATE.md)
 
 When you fix an issue, include the issue number in the commit message to automatically close it and keep a reference link to the commit number, eg `git commit -m 'added map, closes #8'`. Issues can also be referenced and closed in pull requests.
 
@@ -82,7 +82,7 @@ When you fix an issue, include the issue number in the commit message to automat
 
 Pull requests are used to propose changes from your own branch or fork to the `master` branch of the project. Your changes might be a single commit, or a series of many commits; sometimes it makes sense to squash many commits into a single one before submitting a pull request (more on that [here](https://github.com/todotxt/todo.txt-android/wiki/Squash-All-Commits-Related-to-a-Single-Issue-into-a-Single-Commit)).
 
-Pull requests look like this: [PULL_REQUEST_TEMPLATE.md]()
+Pull requests look like this: [PULL_REQUEST_TEMPLATE.md](https://github.com/CityOfDetroit/code-standards/blob/master/PULL_REQUEST_TEMPLATE.md)
 
 All pull request contributions will be released under the project's public domain license. By submitting a PR, you agree to comply with this waiver of copyright interest.
 
